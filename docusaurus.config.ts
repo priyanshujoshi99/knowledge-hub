@@ -41,10 +41,10 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          sidebarPath: './sidebars.ts'
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://priyanshujoshi99.github.io/knowledge-hub'
+          // editUrl: 'https://priyanshujoshi99.github.io/knowledge-hub'
         },
         blog: {
           showReadingTime: true,
@@ -54,7 +54,7 @@ const config: Config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://priyanshujoshi99.github.io/knowledge-hub',
+          // editUrl: 'https://priyanshujoshi99.github.io/knowledge-hub',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
