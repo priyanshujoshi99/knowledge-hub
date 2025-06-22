@@ -83,6 +83,7 @@ const config: Config = {
         items: [
           {
             type: 'docSidebar',
+            href: '/docs/intro',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial'
