@@ -44,8 +44,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/'
+          editUrl: 'https://priyanshujoshi99.github.io/knowledge-hub'
         },
         blog: {
           showReadingTime: true,
@@ -55,8 +54,7 @@ const config: Config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://priyanshujoshi99.github.io/knowledge-hub',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -86,7 +84,7 @@ const config: Config = {
             href: '/docs/intro',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial'
+            label: 'Notes'
           },
           {
             href: 'https://github.com/priyanshujoshi99/knowledge-hub',
@@ -102,14 +100,30 @@ const config: Config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Introduction',
                 to: '/docs/intro'
+              },
+              {
+                label: 'Data Structures and Algorithms',
+                to: '/docs/category/data-structures-and-algorithms'
+              },
+              {
+                label: 'JavaScript',
+                to: '/docs/category/javascript'
+              },
+              {
+                label: 'React',
+                to: '/docs/category/react'
               }
             ]
           },
           {
-            title: 'Social',
+            title: 'Author',
             items: [
+              {
+                label: 'GitHub',
+                href: 'https://github.com/priyanshujoshi99/knowledge-hub/'
+              },
               {
                 label: 'LinkedIn',
                 href: 'https://www.linkedin.com/in/thepriyanshujoshi/'

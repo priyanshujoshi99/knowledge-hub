@@ -1,0 +1,8 @@
+{
+  "label": "Data Structures and Algorithms",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Data Structures and Algorithms (DSA) is a fundamental concept in computer science that involves organizing and manipulating data efficiently. This category covers various data structures like arrays, linked lists, trees, graphs, and algorithms for searching, sorting, and optimizing tasks. Mastering DSA is crucial for problem-solving and technical interviews."
+  }
+}

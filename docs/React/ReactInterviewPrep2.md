@@ -1,8 +1,4 @@
-# React
-
-## Interview Prep
-
-https://github.com/sudheerj/reactjs-interview-questions/tree/master
+# React DOM Manipulation
 
 ## Understanding React: Virtual DOM, Fiber, and Reconciliation
 
